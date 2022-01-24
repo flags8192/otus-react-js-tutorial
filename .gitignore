@@ -9,6 +9,9 @@
 .idea/**/dictionaries
 .idea/**/shelf
 .idea
+public
+!/temp/
+storybook-static
 
 # Generated files
 .idea/**/contentModel.xml
@@ -217,4 +220,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
