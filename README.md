@@ -1,1 +1,1 @@
-# otus-react-js-tutorial
+# Домашние задания React.js Developer от OTUS
