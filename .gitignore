@@ -10,7 +10,7 @@
 .idea/**/shelf
 .idea
 public
-!/temp/
+temp
 storybook-static
 
 # Generated files
