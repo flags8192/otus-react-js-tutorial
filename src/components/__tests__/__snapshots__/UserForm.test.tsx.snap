@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserForm Render <UserForm> 1`] = `
+<DocumentFragment>
+  <div
+    class="css-nga5lq"
+    role="userForm"
+  >
+    <form
+      action="#"
+    >
+      <label
+        for="firstName"
+      >
+        Имя
+      </label>
+      <input
+        id="firstName"
+        name="firstName"
+        placeholder="Введите ммя"
+        value="Иван"
+      />
+      <label
+        for="lastName"
+      >
+        Фамилия
+      </label>
+      <input
+        id="lastName"
+        name="lastName"
+        placeholder="Введите фамилию"
+        value="Иванов"
+      />
+      <button
+        type="submit"
+      >
+        Сохранить
+      </button>
+      <label
+        class="css-12vxlcv"
+      >
+        Иван Иванов
+      </label>
+    </form>
+  </div>
+</DocumentFragment>
+`;
